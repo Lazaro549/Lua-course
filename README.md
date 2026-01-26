@@ -63,3 +63,15 @@ Lua-course/
 ├── cheatsheet.md
 └── useful_links.md
 ```
+
+---
+
+## 🛠 Requirements
+
+- **Lua 5.4+** (recommended)
+- A code editor (VS Code, Neovim, etc.)
+- Optional: `luaunit` for running tests
+
+### Install Lua (Ubuntu)
+```bash
+sudo apt install lua5.4
