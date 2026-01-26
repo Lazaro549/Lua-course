@@ -1,5 +1,9 @@
 # Lua Course 🐍➡️🌙
 ![](assets/logo.png)
+![Lua](https://img.shields.io/badge/Lua-5.4-blue)
+![CI](https://github.com/Lazaro549/Lua-course/actions/workflows/lua.yml/badge.svg)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 Welcome to the **Lua Course**!  
 This repository is designed to teach Lua from the ground up, covering fundamentals, practical examples, and real-world use cases.
 
