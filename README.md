@@ -75,10 +75,3 @@ Lua-course/
 ### Install Lua (Ubuntu)
 ```bash
     sudo apt install lua5.4
-```
-## ❤️ Support this project
-
-If you find this project useful, consider supporting it via GitHub Sponsors.  
-Your support helps maintain and improve the project.
-
-👉 [Become a Sponsor](https://github.com/sponsors/Lazaro549)
